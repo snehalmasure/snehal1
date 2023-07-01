@@ -20,3 +20,4 @@ with open('ocr.csv', newline='') as ocr_file, open('emotions.csv', newline='') a
 print("hello")
 print("hello2")
 print("hello3")
+print("hello4")
